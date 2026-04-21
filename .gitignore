@@ -1,3 +1,5 @@
+# Local config (private routing)
+config/responsibility.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -62,7 +64,6 @@ logs/
 
 # Env
 .env
-.env.*
 venv/
 ENV/
 .envrc
