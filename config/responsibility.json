@@ -1,0 +1,16 @@
+{
+  "all": {
+    "channels": {
+      "telegram": {
+        "chat_id": "1011471535"
+      }  
+    }
+  },
+  "sql": {
+    "channels": {
+      "email": {
+        "address": "netadmin@company.com"
+      }
+    }
+  }
+}

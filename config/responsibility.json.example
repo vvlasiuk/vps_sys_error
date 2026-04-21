@@ -1,0 +1,19 @@
+{
+  "network": {
+    "channels": {
+      "telegram": {
+        "chat_id": "1011471535"
+      },
+      "email": {
+        "address": "netadmin@company.com"
+      }
+    }
+  },
+  "database": {
+    "channels": {
+      "telegram": {
+        "chat_id": "987654321"
+      }
+    }
+  }
+}
