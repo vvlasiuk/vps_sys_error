@@ -11,7 +11,7 @@ class TelegramChannel(BaseChannel):
         #     "1c": "📦",
         #     "all": "🔔"
         # }.get(responsibility, "🛑")
-        text = f"{error_emoji}[{responsibility}] {msg['message']}"
+        text = f"{error_emoji}[{msg['type']}] {msg['text']}"
         return {
             "destination": {
                 "system": "telegram",
